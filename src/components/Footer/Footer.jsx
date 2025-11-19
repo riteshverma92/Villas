@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <>
       <footer className={isHomePage ? 'homePage_footer otherPage_footer': "otherPage_footer"}>
-        <div className="container">
+        <div className="container text-white">
           <h4>LUXURY RENTALS</h4>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum et
